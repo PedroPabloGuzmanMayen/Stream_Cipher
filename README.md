@@ -59,7 +59,9 @@ Un keystream más largo es más seguro pues nos asegura que cada byte se cifra c
 ![Imagen 3](images/Ejemplo3.png)
 
 
-###
+### 3.2 Pruebas unitarias
+
+Puede verlas en ![Pruebas](tests.py)
 
 
 
